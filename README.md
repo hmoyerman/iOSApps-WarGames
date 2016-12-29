@@ -7,6 +7,4 @@ This is similar to my battleship app, except here you watch to batteship's AI's 
 
 Here's an example of someone using this app
 
-<img src='https://dl.dropboxusercontent.com/u/59288152/gitHub/GIFS/wareGamesDemo.gif' title='Video Example' alt='Video Example' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='http://www.henrymoyerman.com/GIFS/wareGamesDemo.gif' title='Video Example' alt='Video Example' />
